@@ -1,0 +1,5 @@
+Smart Coffee Signature v1.6
+
+El código de lote se asigna automáticamente al registrar. Se muestra en el formulario en modo solo lectura. En edición se conserva el código original. El contador se guarda en data/lot_sequence.json y no reutiliza identificadores anteriores.
+
+Para ejecutar: abrir esta carpeta en VS Code y ejecutar python app.py.

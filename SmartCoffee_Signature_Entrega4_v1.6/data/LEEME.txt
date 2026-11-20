@@ -1,0 +1,5 @@
+Aquí se guardan automáticamente usuarios, inventario, tickets, promociones y merma.
+NO publiques los archivos JSON: contienen datos de operación y hashes de contraseñas.
+El archivo .gitignore los excluye del repositorio.
+Para volver a empezar desde cero, con el servidor detenido, borra los archivos .json.
+AVISO: esto elimina los datos guardados y genera una nueva clave inicial.
